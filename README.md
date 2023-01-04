@@ -1,1 +1,12 @@
-# devoirmaison
+Un terminal sert à interagir avec l’ordinateur à l’aide de lignes de commande. Cela peut être utile pour manipuler des fichiers et dossiers, en créer, supprimer, ou en déplacer notamment. On peut aussi, à travers le terminal, lancer des programmes, les modifier, rajouter d’autres programmes, faire des mises à jour sur ceux-ci etc. Il y a beaucoup de fonctionnalités. 
+
+Les fichiers readme étant destinés à être le plus simple possible pour pouvoir être lu par des collaborateurs, la mise en page est concise et claire. On utilise du gras pour les titres, si besoin d’intégrer des listes, on utilise le symbole centerdot (https://www.compart.com/fr/unicode/U+00B7) ou bien des numéros suivis d’un point (exemple : “1.”). Ces modifications sont possibles grâce au markdown, le langage de balisage. Parfois, dans les documents readme, on peut expliquer par étapes des lignes de commande ou du code en les insérant directement, aussi grâce au markdown. Si des images sont nécessaires pour la compréhension, il est intéressant de mettre l’url de l’image avec sa description (exemple : ! [ Ceci est un exemple d’image ] (https://example.com/bild.jpg)). 
+
+Le PX est l'abréviation de pixel. Les pixels vont créer des images de tailles différentes, détaillées ou non. 
+Le VW signifie en français la largeur d’un écran. 
+EM est une taille relative à partir d’un élément dit “parent”, cela veut dire que l’on va pouvoir s’en servir pour définir les tailles adéquates pour chaque écran (téléphone, mobile par exemple).
+
+J’ai trouvé une API qui s’appelle RiotAPI et qui sert aux développeurs qui souhaitent s’inspirer de l’univers de League of Legends, ou Valorant, ou d’autres jeux similaires. Ils peuvent ainsi améliorer le jeu en proposant de nouvelles idées par exemple. Mais il y a aussi possibilité dans cet API de retrouver certaines informations comme les stats d’un joueur, sa position dans un classement, ou même retrouver ses données (photo de profil, nom, son niveau dans le jeu etc). C’est une API assez compliquée à comprendre et difficile d’accès, il faut des autorisations.
+Voici le lien de l’API : https://developer.riotgames.com/
+
+Un “commit” est une sauvegarde que l’on transmet après des modifications sur un fichier. En tant que développeur il faut toujours pouvoir faire comprendre aux autres son intention, car le code n’est pas uniquement écrit, mais il est lu. Les sauvegardes/modifications effectuées sont toutes aussi importantes que le fichier en lui-même. 
