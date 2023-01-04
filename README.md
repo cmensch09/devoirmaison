@@ -4,7 +4,7 @@ Les fichiers readme étant destinés à être le plus simple possible pour pouvo
 
 Le PX est l'abréviation de pixel. Les pixels vont créer des images de tailles différentes, détaillées ou non. 
 Le VW signifie en français la largeur d’un écran. 
-EM est une taille relative à partir d’un élément dit “parent”, cela veut dire que l’on va pouvoir s’en servir pour définir les tailles adéquates pour chaque écran (téléphone, mobile par exemple).
+EM est une taille relative à partir d’un élément dit “parent”, cela veut dire que l’on va pouvoir s’en servir pour définir les tailles adéquates pour chaque écran (téléphone, ordinateur par exemple).
 
 J’ai trouvé une API qui s’appelle RiotAPI et qui sert aux développeurs qui souhaitent s’inspirer de l’univers de League of Legends, ou Valorant, ou d’autres jeux similaires. Ils peuvent ainsi améliorer le jeu en proposant de nouvelles idées par exemple. Mais il y a aussi possibilité dans cet API de retrouver certaines informations comme les stats d’un joueur, sa position dans un classement, ou même retrouver ses données (photo de profil, nom, son niveau dans le jeu etc). C’est une API assez compliquée à comprendre et difficile d’accès, il faut des autorisations.
 Voici le lien de l’API : https://developer.riotgames.com/
